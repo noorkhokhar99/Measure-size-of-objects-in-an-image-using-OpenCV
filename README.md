@@ -6,11 +6,11 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/how-to-Orange-Detection-with-OpenCV-python.git
+git clone https://github.com/noorkhokhar99/Measure-size-of-objects-in-an-image-using-OpenCV.git
 ```
 - Goto the cloned folder.
 ```
-cd how-to-Orange-Detection-with-OpenCV-python
+cd Measure-size-of-objects-in-an-image-using-OpenCV
 
 ```
 - Upgrade pip with mentioned command below.
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-python objectDetection.py
+python objectsize.py
 
  
 
